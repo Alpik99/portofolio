@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.edc27047.css",
+    "main.js": "/portfolio/static/js/main.a4834543.js",
+    "static/media/ganteng.jpg": "/portfolio/static/media/ganteng.6ecf6d895c0a4a4d36eb.jpg",
+    "static/media/htmlal.png": "/portfolio/static/media/htmlal.4c3e038f6ece5a17534d.png",
+    "index.html": "/portfolio/index.html",
+    "main.edc27047.css.map": "/portfolio/static/css/main.edc27047.css.map",
+    "main.a4834543.js.map": "/portfolio/static/js/main.a4834543.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc27047.css",
+    "static/js/main.a4834543.js"
+  ]
+}
